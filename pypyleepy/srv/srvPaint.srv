@@ -1,0 +1,4 @@
+int32 size
+int32[] points
+---
+bool result
